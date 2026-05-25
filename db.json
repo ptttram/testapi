@@ -1,0 +1,12 @@
+{
+  "posts": [
+    {
+      "malop": 1,
+      "tenlop": "Lập trình 01"
+    },
+    {
+      "malop": 2,
+      "tenlop": "Lập trình 02"
+    }
+  ]
+}
